@@ -123,15 +123,11 @@ html {
     text-decoration: none;
 }
 .mvc-font-white a{
-    color: #fff;
+    color: #fff !important;
 }
 .mvc-font-black a{
-    color: #000;
+    color: #000 !important;
 }
-
-
-
-
 
 /*fim*/
 @media only screen and (max-device-width: 1600px) {
