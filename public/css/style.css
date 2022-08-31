@@ -114,7 +114,26 @@ html {
     display: block;
     outline: 0;
 }
+/*meus params*/
 
+.mvc-scale-001 img:hover{
+    -webkit-transform: scale(1.01);
+}
+.mvc-list-style-none a{
+    text-decoration: none;
+}
+.mvc-font-white a{
+    color: #fff;
+}
+.mvc-font-black a{
+    color: #000;
+}
+
+
+
+
+
+/*fim*/
 @media only screen and (max-device-width: 1600px) {
     .bgimg-1,
     .bgimg-2,
